@@ -92,9 +92,11 @@ Just copy, paste, and commit!
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
+  <!-- Main Stats Card (Choose your theme by changing 'theme=tokyonight') -->
   <img src="https://github-readme-stats.vercel.app/api?username=Sanjana-Code0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500" alt="Sanjana's GitHub Stats"/>
 </p>
 <p align="center">
+  <!-- Top Languages Card and Streak Card Side-by-Side -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-Code0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Sanjana's Top Languages" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-Code0&theme=tokyonight&hide_border=true" alt="Sanjana's GitHub Streak" width="45%"/>
 </p>
