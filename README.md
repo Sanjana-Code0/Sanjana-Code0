@@ -91,10 +91,7 @@ Just copy, paste, and commit!
 
 ### 📊 My GitHub Stats & Activity
 
-<p align="center">
-  <!-- THIS IS THE CORRECTED CARD -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana-Code0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500" alt="Sanjana's GitHub Stats"/>
-</p>
+
 <p align="center">
   <!-- These cards were already working, but are included for a complete section -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-Code0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Sanjana's Top Languages" width="45%"/>
