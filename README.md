@@ -1,7 +1,7 @@
 <!-- 
-Hi Sanjana! This is your new profile, generated and ready to go.
-I've already filled in your GitHub username ('Sanjana-Code0') and links from your resume.
-Just make sure the project repository links are correct!
+Hi Sanjana! This is your final, complete README.
+All links and project details from your list have been integrated.
+Just copy, paste, and commit!
 -->
 
 <div align="center">
@@ -15,8 +15,8 @@ Just make sure the project repository links are correct!
   <h1>
     Hi there, I'm Sanjana Palkar 👋
   </h1>
-  <h3>A versatile Full-Stack Developer specializing in Python (ML/XAI) and Flutter.</h3>
-  <p>I'm passionate about building intelligent, data-driven applications and seamless user experiences.</p>
+  <h3>A Full-Stack Developer with expertise in Python (ML/XAI), Java, C#, and Flutter.</h3>
+  <p>I build intelligent, data-driven applications and seamless, user-centric experiences.</p>
   
   <div>
     <a href="https://www.linkedin.com/in/sanjanapalkar" target="_blank">
@@ -33,12 +33,12 @@ Just make sure the project repository links are correct!
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building an **Explainable AI Financial Advisor** using Python, XGBoost, and SHAP.
-- 🌱 I’m exploring **advanced state management in Flutter** and **scalable backend architectures**.
-- 👯 I’m looking to collaborate on impactful **open-source projects**, especially in the FinTech or EdTech space.
-- 💬 Ask me about **Python, Machine Learning, Flutter, C#, or Full-Stack Development**.
-- 📫 How to reach me: **sanjana.palkar01@gmail.com**
-- ⚡ Fun fact: I've won university-level awards for debate and creative writing!
+- 🔭 I’m currently focused on the intersection of **Machine Learning and Full-Stack Development**.
+- 🌱 I’m always learning about **scalable cloud architectures and advanced mobile development patterns**.
+- 👯 I’m looking to collaborate on **innovative open-source projects** that solve real-world problems.
+- 💬 Ask me about **Python, Flutter, Java, C#, Explainable AI, or database design**.
+- 📫 You can reach me at: **sanjana.palkar01@gmail.com**
+- ⚡ Fun fact: I've secured top university and zonal rankings in English Debate and Creative Writing!
 
 ---
 
@@ -48,16 +48,16 @@ Just make sure the project repository links are correct!
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+  </a>
+   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
@@ -65,6 +65,9 @@ Just make sure the project repository links are correct!
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   </a>
   <a href="https://streamlit.io" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
@@ -74,23 +77,24 @@ Just make sure the project repository links are correct!
 ---
 
 ### 🚀 My Featured Projects
-*I recommend pinning these repositories to your profile for maximum visibility!*
+*Here are some of my favorite projects. Be sure to check them out!*
 
 | Project                                     | Description                                                                                             | Tech Stack                               | Links                                                                                                              |
 | ------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| 🤖 **Explainable AI Financial Advisor**     | Engineered an AI advisor for personalized risk profiling and investment advice with transparent model recommendations. | `Python` `XGBoost` `SHAP` `Streamlit` `PostgreSQL` | [🔗 Repo](#) |
-| 👟 **Online Sneakers Shopping App**         | A Flutter-based mobile app to browse and manage sneaker collections, utilizing Firebase for backend services. | `Flutter` `Dart` `Firebase`              | [🔗 Repo](#) |
-| 🏫 **College Management System**            | A comprehensive C# & .NET desktop application for managing student and faculty data with a normalized MySQL database. | `C#` `.NET` `MySQL`                | [🔗 Repo](#) |
+| 🤖 **Explainable AI Financial Advisor**     | An AI system using Python & XGBoost for personalized financial advice, with SHAP for model explainability. | `Python` `XAI` `Streamlit` `PostgreSQL` | [**🚀 Live Demo**](https://aifinancialadvisorindia.streamlit.app/) <br> [**🔗 GitHub**](https://github.com/Sanjana-Code0/ai_financial_advisor_india.git) |
+| 👟 **Online Sneakers Shopping App**         | A Flutter-based mobile app to browse and manage sneaker collections, utilizing Firebase for backend services. | `Flutter` `Dart` `Firebase` `Android Studio` | [**🔗 GitHub**](https://github.com/Sanjana-Code0/MPCapstone.git) |
+| 🎓 **BCA Career Guidance App**          | A comprehensive mobile guide built with Flutter to help BCA students explore career paths and required skills. | `Flutter` `Dart` `Firebase` | [**🔗 GitHub**](https://github.com/Sanjana-Code0/BCA_Career_guide_app.git) |
+| 📝 **Online Student Feedback System**       | A full-stack web app allowing students to submit feedback and admins to view analytics, built with Java.  | `Java` `JSP` `Servlets` `MySQL` | [**🔗 GitHub**](https://github.com/Sanjana-Code0/JavaProject.git) |
+
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <!-- Your stats will appear here, just replace 'Your-GitHub-Username' with your actual username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana-Code0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sanjana's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-Code0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Sanjana's Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana-Code0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500" alt="Sanjana's GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-Code0&theme=tokyonight&hide_border=true" alt="Sanjana's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-Code0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Sanjana's Top Languages" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-Code0&theme=tokyonight&hide_border=true" alt="Sanjana's GitHub Streak" width="45%"/>
 </p>
